@@ -14,7 +14,7 @@
     <img src="https://github.com/LeejwUniverse/NLP_NMT_Pytorch/blob/master/arts/Guernica(1937)_picasso.jpg" width="500">
 </div>
 
-<h3 align="center"> Pablo Picasso - Massacre in korea(1951) </h3>
+<h3 align="center"> Pablo Picasso - Guernica (1937) </h3>
 
 
 #### Today's song
